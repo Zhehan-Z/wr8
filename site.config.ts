@@ -47,7 +47,7 @@ export default siteConfig({
      '/about': 'b51d52be62784a6d83ed71866ae26b11',
      '/friends': '5d9008b017d248e492b79ce96b95118b',
      '/contact': 'b9451aab2a3f48c89839c28074d66f87',
-   }
+   },
   // pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
