@@ -15,7 +15,7 @@ export default siteConfig({
   seotitle: 'ZhehanZ',
 
   // open graph metadata (optional)
-  description: 'Hi, I'm Zhehan Zhang. Get to know me more on this site.',
+  description: 'The personal site of Zhehan Zhang. Get to know me more on this site!',
 
   // social usernames (optional)
   twitter: 'Zhehan_Z',
